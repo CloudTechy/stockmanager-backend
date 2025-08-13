@@ -1,7 +1,7 @@
 
-# StockManagerB
+# StockManager
 
-StockManagerB is an **inventory and stock management system** designed to help businesses efficiently track their stock levels, manage inventory processes, and streamline operations. Built with a **modern tech stack**, StockManagerB provides a **user-friendly interface** for managing stock data, real-time updates, and accurate reporting.
+StockManager is an **inventory and stock management system** designed to help businesses efficiently track their stock levels, manage inventory processes, and streamline operations. Built with a **modern tech stack**, StockManager provides a **user-friendly interface** for managing stock data, real-time updates, and accurate reporting.
 
 ## Key Features
 
@@ -37,8 +37,8 @@ Before running this project, ensure you have the following installed on your mac
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/CloudTechy/stockmanagerb.git
-   cd stockmanagerb
+   git clone https://github.com/CloudTechy/stockmanager.git
+   cd stockmanager
    ```
 
 2. **Install backend dependencies**:
@@ -114,7 +114,7 @@ Now, the application should be available at `http://localhost:8000` (or the port
 
 ## Contributing
 
-We welcome contributions to make StockManagerB even better! Here's how you can contribute:
+We welcome contributions to make StockManager even better! Here's how you can contribute:
 
 1. **Fork the repo**.
 2. **Create a new branch** for your feature or bugfix:
